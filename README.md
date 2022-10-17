@@ -4,6 +4,8 @@
 Шаповаленко Екатерина, С4106
 https://colab.research.google.com/drive/19Ow8qfq_FIbQn4MFmmyLnLhfMfciuBwq?authuser=3#scrollTo=9Dpv_9sEzGV-
 
+Test (Выборгский район) - https://colab.research.google.com/drive/1Gh10poCvFKksdLp0qcdUxy3WscAgntFt?usp=sharing
+
 ## Описание
 Итоговый проект для расчета количества объктов культурного наследия для улиц в выбранном районе Санкт-Петербурга. 
 1. Следует выбрать [район Санкт-Петербурга](https://wiki.openstreetmap.org/wiki/RU:%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3/%D0%A0%D0%B0%D0%B9%D0%BE%D0%BD%D1%8B)
