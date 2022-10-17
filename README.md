@@ -1,8 +1,8 @@
 # python-urban
 
 ## О работе
-- 
-- 
+Шаповаленко Екатерина, С4106
+https://colab.research.google.com/drive/19Ow8qfq_FIbQn4MFmmyLnLhfMfciuBwq?authuser=3#scrollTo=9Dpv_9sEzGV-
 
 ## Описание
 Итоговый проект для расчета количества объктов культурного наследия для улиц в выбранном районе Санкт-Петербурга. 
