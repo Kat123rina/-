@@ -4,6 +4,8 @@
 Шаповаленко Екатерина, С4106
 https://colab.research.google.com/drive/19Ow8qfq_FIbQn4MFmmyLnLhfMfciuBwq?authuser=3#scrollTo=9Dpv_9sEzGV-
 
+ИСПР: https://colab.research.google.com/drive/1p6v9RI3OyMjF4dkHy4pA7_zqDMA-qLYL?usp=sharing
+
 Test (Выборгский район) - https://colab.research.google.com/drive/1Gh10poCvFKksdLp0qcdUxy3WscAgntFt?usp=sharing
 
 ## Описание
